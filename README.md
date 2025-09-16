@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hi, I’m Paul 
 
-<!--
-**TomoyamiP/TomoyamiP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Full-Stack Web Developer based in Tokyo, originally from Seattle 🌲☕. A recent graduate of the Le Wagon Web Development & AI Bootcamp (2025), I bring a background in HR and cross-cultural communication to create apps that are user-centered, inclusive, and design-driven.
 
-Here are some ideas to get you started:
+💻 What I’m working on
+	•	Building AI-powered tools that support communication, creativity, and everyday life
+	•	Developing responsive web apps with Rails, JavaScript, and PostgreSQL
+	•	Exploring UX/UI design and front-end best practices to craft smooth user experiences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Tech stack
+Ruby on Rails • JavaScript • PostgreSQL • HTML • SCSS • Stimulus • Heroku • Figma • Git/GitHub • OpenAI APIs
+
+🌱 Currently
+	•	Expanding my skills through new full-stack projects
+	•	Experimenting with AI integration in web apps
+	•	Open to opportunities in collaborative, UX-driven teams where creativity and empathy matter
+
+📫 Let’s connect
+[LinkedIn](https://www.linkedin.com/in/paulmiyamoto) | [Portfolio](https://paulmiyamoto.me) | [Email](mailto:tomoyamip@gmail.com)
